@@ -7,9 +7,7 @@ enableRobotsTXT = true
 enableEmoji = true
 theme = "jane2"
 
-[module]
-  [[module.imports]]
-    path = "github.com/wazecroatia/website"
+
 
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
