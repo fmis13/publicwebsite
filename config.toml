@@ -5,7 +5,7 @@
 title = "Jane - A super concise theme for Hugo"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "jane"
+theme = "jane2"
 
 [module]
   [[module.imports]]
